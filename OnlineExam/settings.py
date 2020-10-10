@@ -140,6 +140,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER ='joyislam1954@gmail.com'
+DEFAULT_FROM_EMAIL ='joyislam1954@gmail.com'
 EMAIL_HOST_PASSWORD ='joy@islam#1954&md$01744450651#1998'
 
 ENABLE_USER_ACTIVATION = True
